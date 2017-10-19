@@ -1,0 +1,14 @@
+{
+  "name": "xdk-iot-onboard-led-blink",
+  "description": "Intel® XDK IoT Onboard LED Blink App",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0",
+    "mqtt": "^2.6.2"
+  },
+  "license": "BSD-3-Clause",
+  "private": true,
+  "dependencies": {
+  }
+}

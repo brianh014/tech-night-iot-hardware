@@ -1,0 +1,86 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1493479908571,
+        "modified": 1493479908571,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "icon.png": {
+        "previousModTime": 1493479908571,
+        "modified": 1493479908571,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1493479908571,
+        "modified": 1493479908571,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1508375955449,
+        "modified": 1508375955449,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1493480486169,
+        "modified": 1493480486169,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1493479908572,
+        "modified": 1493479908572,
+        "seen": true,
+        "name": "README.md"
+      },
+      "tech-night-iot-hardware.xdk": {
+        "previousModTime": 1493479908757,
+        "modified": 1493479908757,
+        "seen": true,
+        "name": "tech-night-iot-hardware.xdk"
+      },
+      "tech-night-iot-hardware.xdke": {
+        "previousModTime": 1508375948553,
+        "modified": 1508375948553,
+        "seen": true,
+        "name": "tech-night-iot-hardware.xdke"
+      },
+      "utl/cfg-app-platform.js": {
+        "previousModTime": 1493479908577,
+        "modified": 1493479908577,
+        "seen": true,
+        "name": "utl/cfg-app-platform.js"
+      },
+      "utl/version-compare.js": {
+        "previousModTime": 1493479908576,
+        "modified": 1493479908576,
+        "seen": true,
+        "name": "utl/version-compare.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1493479908699,
+        "modified": 1493479908699,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1508375956911
+      }
+    }
+  }
+}
